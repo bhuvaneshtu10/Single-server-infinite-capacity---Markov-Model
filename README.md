@@ -73,4 +73,4 @@ Probability that the system is empty : 0.54
 ```
 
 ## Result :
-
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
